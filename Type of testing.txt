@@ -1,11 +1,25 @@
+Updated by 33_JolinTeo
+=======================
 Unit Testing
 =======================
 - Unit testing is a level of software testing where individual units/ components of a software are tested.
 - Unit testing is conducted by Programmers.
-- It is a tpye of whitebox testing.
+- It is a type of whitebox testing.
 
 Intergration Testing
 =======================
 - Intergration testing is a level of software testing where individual units are combined and tested as a group.
 - Intergration testing is conducted by multiple programmers or programming teams.
 - It is a type of whitebox testing.
+
+System Testing
+==================
+- System testing is the execution of the software in its final configuration.
+- System testing is conducted by developer/programmer.
+- It is a type of whitebox testing.
+
+Acceptance testing
+=====================
+- Acceptance testing is a level of software testing where a system is tested for acceptability.
+- Acceptance testing is customers and end-users.
+- It is a type of blackbox testing. 
