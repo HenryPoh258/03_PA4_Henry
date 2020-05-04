@@ -95,7 +95,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 448}
   m_MaxSize: {x: 22012, y: 10024}
   vertical: 0
-  controlID: 12
+  controlID: 93
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 13
+  controlID: 106
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -330,21 +330,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d6fbffff
+      m_ExpandedIDs: 16d7ffff1eefffff94f0ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: GameObject
+        m_OriginalName: GameObject
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -21168
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 7}
       m_SearchString: 
@@ -426,19 +426,20 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Scripts
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Terry\Desktop\03_Henry_Lab02_v1\03_Henry_Lab02
+  m_LastProjectPath: C:\Users\Terry\Desktop\GitHub\03_PA4_Henry\03_Henry_PA4
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 762b0000
     m_LastClickedID: 11126
-    m_ExpandedIDs: 0000000076090000da090000520b0000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -466,7 +467,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff0000000076090000da090000520b0000
+    m_ExpandedIDs: ffffffff000000006e2e0000be300000c4300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -632,9 +633,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.7676523, y: 3.7633293, z: 2.4149926}
+    m_Target: {x: -2.3301692, y: 1.0969728, z: -0.83871555}
     speed: 2
-    m_Value: {x: -1.7676523, y: 3.7633293, z: 2.4149926}
+    m_Value: {x: -2.3301692, y: 1.0969728, z: -0.83871555}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -662,13 +663,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.07384191, y: -0.89848274, z: 0.16601504, w: -0.39964387}
+    m_Target: {x: -0.23608264, y: -0.2336745, z: 0.058599886, w: -0.94139653}
     speed: 2
-    m_Value: {x: -0.07384191, y: -0.89848274, z: 0.16601504, w: -0.39964387}
+    m_Value: {x: -0.23608264, y: -0.2336745, z: 0.058599886, w: -0.94139653}
   m_Size:
-    m_Target: 5.4431934
+    m_Target: 16.298088
     speed: 2
-    m_Value: 5.4431934
+    m_Value: 16.298088
   m_Ortho:
     m_Target: 0
     speed: 2
